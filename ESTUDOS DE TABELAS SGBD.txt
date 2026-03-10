@@ -1,0 +1,38 @@
+ Campo           Descrição                                 
+ 
+Placa :          Identificação do veículo        	dwl 9A79          
+	 
+RENAVAM :        Número do registro nacional        	12345678901       
+ 	
+Chassi :         Número do chassi                  	9BWZZZ377VT004251 
+
+Marca :          Fabricante                        	Toyota            
+	
+Modelo :         Modelo do veículo               	Corolla           
+	
+Ano fabricação :  Ano em que foi fabricado        	2022              
+	
+Ano modelo :     Ano do modelo                   	2023              
+	
+Cor :            Cor do veículo                  	Branco            
+	
+Combustível :    Tipo de combustível             	Flex              
+	 
+Proprietario :   Dados pessoais   
+
+
+     			CONTROLE DE EQUIPAMENTOS 
+
+TIPOS DE EQUPAMENTOS		              QUALIDADE DO EQUIPAMENTO    SETOR ULTILIZADO  NOVOS PEDIDOS  SITUAÇÃO DO PEDIDO  DATA DA AVARIA
+
+										
+TECNOGIA :NOTEBOOK POSITIVO------------------ PLACA MAE QUEIMADA---------- ALMOXARIFADO----- PLACA MAE----- A CAMINHO----------15/02/26
+
+LIMPEZA	: LIMPADOR ELETRICO DE PISO  BRASTEMP-- OTIMO ESTADO-------------- SERVIÇOS GERAIS--- SEM NOVOS PEDIDOS-----------------------
+
+BEBIDAS : FRIGOBAR ELETROLUX------------------ FALHA NO MOTOR-------------- RECEPÇÃO---------- MOTOR NOVO 220W-- EM FALTA------10/01/26 
+
+
+
+
+    
